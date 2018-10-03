@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/TVM1415/!svn/ver/4262/TVM02/TJA10/trunk/Team2/GroupD/project/TJA10_GROUPD_HMS1.1/WebContent/JSP
+END
+addRoom.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/TVM1415/!svn/ver/4616/TVM02/TJA10/trunk/Team2/GroupD/project/TJA10_GROUPD_HMS1.1/WebContent/JSP/addRoom.jsp
+END
+RoomBooking.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/TVM1415/!svn/ver/4728/TVM02/TJA10/trunk/Team2/GroupD/project/TJA10_GROUPD_HMS1.1/WebContent/JSP/RoomBooking.jsp
+END
+updateRoomDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/TVM1415/!svn/ver/4728/TVM02/TJA10/trunk/Team2/GroupD/project/TJA10_GROUPD_HMS1.1/WebContent/JSP/updateRoomDetails.jsp
+END
+BookingResult.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/TVM1415/!svn/ver/4728/TVM02/TJA10/trunk/Team2/GroupD/project/TJA10_GROUPD_HMS1.1/WebContent/JSP/BookingResult.jsp
+END
+Home.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/TVM1415/!svn/ver/4728/TVM02/TJA10/trunk/Team2/GroupD/project/TJA10_GROUPD_HMS1.1/WebContent/JSP/Home.jsp
+END
+SearchViewAll.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/TVM1415/!svn/ver/4728/TVM02/TJA10/trunk/Team2/GroupD/project/TJA10_GROUPD_HMS1.1/WebContent/JSP/SearchViewAll.jsp
+END
+Welcome.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/TVM1415/!svn/ver/4389/TVM02/TJA10/trunk/Team2/GroupD/project/TJA10_GROUPD_HMS1.1/WebContent/JSP/Welcome.jsp
+END
+CancellationResult.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/TVM1415/!svn/ver/4728/TVM02/TJA10/trunk/Team2/GroupD/project/TJA10_GROUPD_HMS1.1/WebContent/JSP/CancellationResult.jsp
+END
+searchByTariff.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/TVM1415/!svn/ver/4728/TVM02/TJA10/trunk/Team2/GroupD/project/TJA10_GROUPD_HMS1.1/WebContent/JSP/searchByTariff.jsp
+END
+activateRoom.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/TVM1415/!svn/ver/4389/TVM02/TJA10/trunk/Team2/GroupD/project/TJA10_GROUPD_HMS1.1/WebContent/JSP/activateRoom.jsp
+END
+CancelBooking.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/TVM1415/!svn/ver/4728/TVM02/TJA10/trunk/Team2/GroupD/project/TJA10_GROUPD_HMS1.1/WebContent/JSP/CancelBooking.jsp
+END
+searchByCategory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/TVM1415/!svn/ver/4728/TVM02/TJA10/trunk/Team2/GroupD/project/TJA10_GROUPD_HMS1.1/WebContent/JSP/searchByCategory.jsp
+END
+adminHome.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/TVM1415/!svn/ver/4728/TVM02/TJA10/trunk/Team2/GroupD/project/TJA10_GROUPD_HMS1.1/WebContent/JSP/adminHome.jsp
+END
+Contactus.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/TVM1415/!svn/ver/4728/TVM02/TJA10/trunk/Team2/GroupD/project/TJA10_GROUPD_HMS1.1/WebContent/JSP/Contactus.jsp
+END
+SearchResult.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/TVM1415/!svn/ver/4728/TVM02/TJA10/trunk/Team2/GroupD/project/TJA10_GROUPD_HMS1.1/WebContent/JSP/SearchResult.jsp
+END
+Search.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/TVM1415/!svn/ver/4728/TVM02/TJA10/trunk/Team2/GroupD/project/TJA10_GROUPD_HMS1.1/WebContent/JSP/Search.jsp
+END
+deactivateRoom.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/TVM1415/!svn/ver/4728/TVM02/TJA10/trunk/Team2/GroupD/project/TJA10_GROUPD_HMS1.1/WebContent/JSP/deactivateRoom.jsp
+END
+Login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/TVM1415/!svn/ver/4728/TVM02/TJA10/trunk/Team2/GroupD/project/TJA10_GROUPD_HMS1.1/WebContent/JSP/Login.jsp
+END
+Logout.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/TVM1415/!svn/ver/4728/TVM02/TJA10/trunk/Team2/GroupD/project/TJA10_GROUPD_HMS1.1/WebContent/JSP/Logout.jsp
+END
+Registration.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/TVM1415/!svn/ver/4389/TVM02/TJA10/trunk/Team2/GroupD/project/TJA10_GROUPD_HMS1.1/WebContent/JSP/Registration.jsp
+END
+customerHome.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/TVM1415/!svn/ver/4728/TVM02/TJA10/trunk/Team2/GroupD/project/TJA10_GROUPD_HMS1.1/WebContent/JSP/customerHome.jsp
+END
+deactivateRoomDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/TVM1415/!svn/ver/4728/TVM02/TJA10/trunk/Team2/GroupD/project/TJA10_GROUPD_HMS1.1/WebContent/JSP/deactivateRoomDetails.jsp
+END
+updateRoom.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/TVM1415/!svn/ver/4728/TVM02/TJA10/trunk/Team2/GroupD/project/TJA10_GROUPD_HMS1.1/WebContent/JSP/updateRoom.jsp
+END
+Aboutus.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/TVM1415/!svn/ver/4728/TVM02/TJA10/trunk/Team2/GroupD/project/TJA10_GROUPD_HMS1.1/WebContent/JSP/Aboutus.jsp
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/TVM1415/!svn/ver/4101/TVM02/TJA10/trunk/Team2/GroupD/project/TJA10_GROUPD_HMS1.1/WebContent/WEB-INF/lib
+END
+ojdbc14-10g.jar
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/TVM1415/!svn/ver/3830/TVM02/TJA10/trunk/Team2/GroupD/project/TJA10_GROUPD_HMS1.1/WebContent/WEB-INF/lib/ojdbc14-10g.jar
+END
+servlet-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/TVM1415/!svn/ver/4101/TVM02/TJA10/trunk/Team2/GroupD/project/TJA10_GROUPD_HMS1.1/WebContent/WEB-INF/lib/servlet-api.jar
+END
+commons-fileupload-1.2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/TVM1415/!svn/ver/4352/TVM02/TJA10/trunk/Team2/GroupD/project/TJA10_GROUPD_HMS1.1/WebContent/WEB-INF/lib/commons-fileupload-1.2.2.jar
+END
+commons-io-2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/TVM1415/!svn/ver/4352/TVM02/TJA10/trunk/Team2/GroupD/project/TJA10_GROUPD_HMS1.1/WebContent/WEB-INF/lib/commons-io-2.4.jar
+END
+log4j-1.2.16.jar
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/TVM1415/!svn/ver/3843/TVM02/TJA10/trunk/Team2/GroupD/project/TJA10_GROUPD_HMS1.1/WebContent/WEB-INF/lib/log4j-1.2.16.jar
+END
